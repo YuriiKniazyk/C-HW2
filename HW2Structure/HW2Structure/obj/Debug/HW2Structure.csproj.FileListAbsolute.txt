@@ -1,0 +1,7 @@
+D:\Web\Training\SoftServe\HomeWork\HW2\HW2Structure\HW2Structure\bin\Debug\HW2Structure.exe.config
+D:\Web\Training\SoftServe\HomeWork\HW2\HW2Structure\HW2Structure\bin\Debug\HW2Structure.exe
+D:\Web\Training\SoftServe\HomeWork\HW2\HW2Structure\HW2Structure\bin\Debug\HW2Structure.pdb
+D:\Web\Training\SoftServe\HomeWork\HW2\HW2Structure\HW2Structure\obj\Debug\HW2Structure.csprojAssemblyReference.cache
+D:\Web\Training\SoftServe\HomeWork\HW2\HW2Structure\HW2Structure\obj\Debug\HW2Structure.csproj.CoreCompileInputs.cache
+D:\Web\Training\SoftServe\HomeWork\HW2\HW2Structure\HW2Structure\obj\Debug\HW2Structure.exe
+D:\Web\Training\SoftServe\HomeWork\HW2\HW2Structure\HW2Structure\obj\Debug\HW2Structure.pdb
