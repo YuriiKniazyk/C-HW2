@@ -26,7 +26,7 @@ namespace HW2Structure
             if (isValid)
             {
                 dog.age = age;
-                Console.WriteLine($"The dog is: \n {dog.name} \n {dog.mark} \n {dog.age}");
+                Console.WriteLine(dog);
             }
             Console.WriteLine();
         }
